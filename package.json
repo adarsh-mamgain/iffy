@@ -35,7 +35,7 @@
     "@47ng/cloak": "^1.2.0",
     "@ai-sdk/openai": "^1.1.5",
     "@clerk/nextjs": "^6.9.13",
-    "@faker-js/faker": "^8.4.1",
+    "@faker-js/faker": "^10.5.0",
     "@hookform/resolvers": "^3.9.0",
     "@number-flow/react": "^0.5.5",
     "@radix-ui/react-alert-dialog": "^1.1.6",
@@ -82,10 +82,10 @@
     "fumadocs-ui": "^15.0.14",
     "inngest": "^3.23.1",
     "linkify-it": "^5.0.0",
-    "liquidjs": "^10.17.0",
+    "liquidjs": "^10.27.2",
     "lodash": "^4.17.21",
     "lucide-react": "^0.475.0",
-    "next": "15.2.3",
+    "next": "15.5.29",
     "next-safe-action": "^7.9.3",
     "next-themes": "^0.4.4",
     "nuqs": "^2.4.1",
@@ -109,7 +109,7 @@
     "type-fest": "^4.32.0",
     "user-agents": "^1.1.395",
     "vaul": "^1.0.0",
-    "zod": "^3.24.1",
+    "zod": "^4.6.6",
     "zod-to-json-schema": "^3.23.3",
     "zod-validation-error": "^3.4.0"
   },
@@ -143,12 +143,12 @@
     "typescript": "^5.5.4",
     "typescript-eslint": "^8.2.0",
     "vercel": "^39.2.2",
-    "vitest": "^2.1.8"
+    "vitest": "^4.1.11"
   },
   "overrides": {
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "next": "15.2.3"
+    "next": "15.5.29"
   },
   "optionalDependencies": {
     "@img/sharp-linux-x64": "0.33.5",
